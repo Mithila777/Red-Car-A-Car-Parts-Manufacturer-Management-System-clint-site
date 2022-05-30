@@ -1,0 +1,30 @@
+.product{
+    background-color: white;
+    color:black;
+    text-align: center;
+    font-weight: normal;
+    padding:2% 0% 0% 0%;
+
+
+}
+.productInfo{
+    text-align: left;
+    margin-bottom: 0%;
+    color:white;
+    
+}
+.productInfo button{
+ margin-left:0%;
+ padding: 0 30px;
+
+}
+.productInfo p{
+    font-weight: normal;
+    word-wrap: break-word;
+    word-break: break-all;
+    margin:0em;
+
+}
+.productName p{
+    font-weight: bold;
+}

@@ -1,0 +1,32 @@
+.productDetail{
+    background-color: white;
+    color:white;
+    box-shadow: 5px 5px 4px 5px #888888;
+}
+.productDetialInfo{
+    background-color: black;
+    text-align: left;
+    color:white;
+    padding-left: 2%;
+    padding:  5%;
+
+
+}
+.addquantity{
+    margin-top: 1%;
+}
+
+.addquantity form input[type=text]{
+    border:none;
+    width:30%;
+    border-radius:0;
+    padding:1.6% ;
+    padding-left: 3%;
+    
+}
+.addquantity form input[type=submit]{
+    width:20% ;
+    border-radius:0;
+
+    
+}

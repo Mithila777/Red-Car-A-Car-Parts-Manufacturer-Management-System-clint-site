@@ -1,0 +1,83 @@
+[   
+
+    
+    
+    { 
+      "name": "Power stop",
+      "description": "  High-speed power hetthing  ",
+      "img": "https://i.ibb.co/CVYtxKV/powerstop.jpg",
+      "price":"$1,199.00",
+      "quantity": " 7",
+      "sold":"0"
+
+
+    },
+    
+    
+  {  
+      "name": " Air comoressor",
+      "description": "Whether capturing best-for air colling ",
+      "img": "https://i.ibb.co/rQzxDmc/air-compressor.jpg",
+      "price":"$1,199.00",
+      "quantity": " 3",
+      "sold":"0"
+
+
+    },
+    { 
+      "name": "Headlight ",
+      "description": " Dark capturing high-speed lighting ",
+      "img": "https://i.ibb.co/ky65jFV/headlight.jpg",
+      "price":"$1,199.00",
+      "quantity": " 14",
+      "sold":"0"
+
+
+    },
+    { 
+      "name": " Emginne Controller",
+      "description": "The Canon EOS 6D Mark II puts full-frame ",
+      "img": "https://i.ibb.co/NYy5NLP/engine-contro-lmodule.jpg",
+      "price":"$1,099.00",
+      "quantity": " 10",
+      "sold":"0"
+
+
+    },
+    { 
+      "name": "Step motor",
+      "description": "Making way for a new era in autofocus speed, accuracy and precision ",
+      "img": "https://i.ibb.co/QMcY57P/step-motor.jpg",
+      "price":"$6,499.00",
+      "quantity": " 5",
+      "sold":"0"
+
+
+
+    },
+    
+    { 
+        "name": "Auto meter",
+        "description": "Making way for a new era in autofocus speed, accuracy and precision ",
+        "img": "https://i.ibb.co/dQmFPHs/Auto-meter.jpg",
+        "price":"$6,499.00",
+        "quantity": " 5",
+        "sold":"0"
+  
+  
+  
+      },
+      { 
+        "name": "Line replacement kit",
+        "description": "The EOS 5D Mark IV camera builds on the powerful legacy of the 5D series",
+        "img": "https://i.ibb.co/PzKwgBx/line-replacement-kit.jpg",
+        "price":"$1,399.00",
+        "quantity": " 3",
+        "sold":"0"
+  
+  
+      }
+      
+    
+
+]

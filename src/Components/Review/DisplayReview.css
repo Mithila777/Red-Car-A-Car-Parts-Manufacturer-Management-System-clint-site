@@ -1,0 +1,14 @@
+
+
+ 
+
+.u-color {
+    color: red;
+}
+
+.slick-prev:before,.slick-next:before{
+  color:black;
+}
+.review{
+    background-color: white;
+}

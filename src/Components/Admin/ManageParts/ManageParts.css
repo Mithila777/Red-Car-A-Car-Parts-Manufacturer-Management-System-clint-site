@@ -1,0 +1,33 @@
+.data-table{
+    
+    width:95%;
+display: block;
+
+  }
+  
+   td th,tr {
+    text-align: right;
+    align-items: flex-start;
+    
+
+  }
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: right;
+    background-color: black;
+    color: white;
+  }
+  
+  
+  .tableimage{
+      width:160px;
+      height: 100px;
+  }
+  @media only screen and (max-width: 767px) {
+
+    .tableimage{
+       max-width: 100%;      
+      max-height: 100%;
+  }
+  }
