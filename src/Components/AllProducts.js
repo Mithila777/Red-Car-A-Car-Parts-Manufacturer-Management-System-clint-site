@@ -41,7 +41,7 @@ const AllProducts = () => {
         navigate(`/UpdateCamera/${id}`);
     }
     const navigateToUpdateParts = id =>{
-        navigate(`/ProductDetial/${id}`);
+      navigate(`/Product/${id}`);
     }
 
     

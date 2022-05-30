@@ -147,8 +147,8 @@ const Home = () => {
               </div>
               
              <div className='mt-5 mb-2 manage-button'>
-             <Link to="/AllParts"> 
-        <button  className='btn btn-dark  text-light rounded-0'>More Part <span>  </span>
+             <Link to="/AllProducts"> 
+        <button  className='btn btn-dark  text-light rounded-0'>More Parts <span>  </span>
         <FontAwesomeIcon icon={ faArrowRight}/></button>
                  </Link> 
              </div>
