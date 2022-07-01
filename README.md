@@ -1,11 +1,11 @@
 #Project Name: RedCar
 
 Projet Live link:(https://just-red-car.web.app/)/
-##Project Description:
+#Project Description:
 
-#•	Features: User verification and authentication, admin, super admin, content management, responsive design, online Payments System, regularly update content, testimonials.
-#•	Functionality: Verified user can make an order, make payment, cancel only unpaid order, update profile, can add a review and user, products, orders, payments manage by admin.
-#•	Design and developed technology: HTML, CSS, Bootstrap, JS, React, Firebase, NodeJs, MongoDB, Stripe, ExpressJs 
+ #•	Features: User verification and authentication, admin, super admin, content management, responsive design, online Payments System, regularly update content, testimonials.
+ #•	Functionality: Verified user can make an order, make payment, cancel only unpaid order, update profile, can add a review and user, products, orders, payments manage by admin.
+ #•	Design and developed technology: HTML, CSS, Bootstrap, JS, React, Firebase, NodeJs, MongoDB, Stripe, ExpressJs 
 
 # Getting Started with Create React App
 
